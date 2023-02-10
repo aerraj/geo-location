@@ -1,0 +1,11 @@
+body {
+  height: 100px;
+  /* background-color: red; For browsers that do not support gradients */
+  background-image: linear-gradient(120deg, powderblue, aqua, powderblue);
+}
+#output {
+  margin: 0% 40% 5% 40%;
+  background-image: linear-gradient(90deg, red, yellow, coral);
+  border-color: black;
+  padding-left: 10px;
+}
